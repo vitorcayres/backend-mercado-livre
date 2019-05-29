@@ -7,7 +7,7 @@
 ## Instalação
 
 No diretório do projeto, execute o seguinte comando: ```$ npm install ``` <br>
-Após baixar os pacotes, execute o seguinte comando: ```$ node app.js ```
+Após baixar os pacotes, execute o seguinte comando: ```$ node app.js ```<br>
 O backend será executado no modo de desenvolvimento. <br>
 
 ## Endpoints
